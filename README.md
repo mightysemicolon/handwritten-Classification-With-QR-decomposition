@@ -59,7 +59,3 @@ Both notebooks also plot, for each true digit, how the predictions are distribut
 ## Requirements
 
 numpy, pandas, matplotlib
-
-## Reference
-
-Lars Eldén, *Matrix Methods in Data Mining and Pattern Recognition*, SIAM. Chapter on classification of handwritten digits.
